@@ -1,0 +1,22 @@
+
+## How to Run
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the training script
+
+python src/telecom_ai_model.py
+
+## Applications
+
+- Telecom traffic demand prediction
+- Network congestion detection
+- Capacity planning
+- Network optimization
+
+## Author
+
+Subhankar Bhattacharya
+Telecom Professional | AI/ML Enthusiast
